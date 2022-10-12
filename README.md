@@ -20,7 +20,7 @@ Projeto construido solo através do figma no curso Explorer Rocketseat turma 06
 Desafio proposto após a conclusão do projeto 2 executado em aula.
 O desafio era realizarmos a execução de uma pagina fictícia através dos dados fornecidos no figma.
 
-[Link Figma](ttps://www.figma.com/file/tbuHTFVydiHwjncTNN3rZv/Explorer-(Copy)?node-id=0%3A)
+[Link Figma](https://www.figma.com/file/tbuHTFVydiHwjncTNN3rZv/Explorer-(Copy)?node-id=0%3A)
 
 ## 💛 Contato
 
